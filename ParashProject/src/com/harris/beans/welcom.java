@@ -5,7 +5,7 @@ public class welcom {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-<<<<<<< HEAD
+HEAD
 		System.out.println("my name is parash nayak123666");
 =======
 		//System.out.println("my name is parash nayak123555");
